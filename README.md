@@ -20,6 +20,7 @@
 
 
 
+![alt text](https://prakash78blog.files.wordpress.com/2021/04/battery_arduino-1.png)
 
 ![alt text](https://github.com/prax78/BatteryMeter/blob/main/battery_meter_1.gif)
 
