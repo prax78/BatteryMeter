@@ -17,7 +17,7 @@
       4 Build your app, shared the main.dart and yaml file, please keep minimum sdk as 19.
       5 Launch your app, make sure you have turned Bluetooth ON on your mobile and paired your HC-05.
       
-
+ ** Dont use this Arduino sktech to measure anything beyond 5 V DC **
 
 
 ![alt text](https://prakash78blog.files.wordpress.com/2021/04/battery_arduino-1.png)
