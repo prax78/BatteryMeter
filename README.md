@@ -5,7 +5,11 @@
 ** Please prepare Arduino with a sample sketch shared here**
 ** Pair it with your smartphone with default password 1234 [this is for HC-05]**
 ** Build your Flutter app shared the main.dart and pubspec.yaml**
- ** More details, please visit my blog https://prakash78blog.wordpress.com/2021/04/05/battery-meter-app-using-arduino-and-flutter/
+
+
+ ** More details, please visit my blog https://prakash78blog.wordpress.com/2021/04/05/battery-meter-app-using-arduino-and-flutter/ **
+ 
+ 
     ** How To***
       1 Wire your Arduio Uno (I used Arduino Uno Clone) as per the given Sketch.
       2 Upload the Sketch to Arduino.
