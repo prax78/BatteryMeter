@@ -17,5 +17,5 @@
 
 
 
-![alt text](https://github.com/prax78/BatteryMeter/blob/main/battery_meter1.gif)
+![alt text](https://github.com/prax78/BatteryMeter/blob/main/battery_meter_1.gif)
 
