@@ -17,5 +17,5 @@
 
 
 
-![alt text](https://github.com/prax78/BatteryMeter/blob/main/battery_meter.gif)
-![alt text](https://github.com/prax78/Arduino_Flutter_Sensor/blob/master/ARDUINO_OP.gif)
+![alt text](https://github.com/prax78/BatteryMeter/blob/main/battery_meter1.gif)
+
