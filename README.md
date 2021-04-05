@@ -21,5 +21,5 @@
 
 
 
-![alt text](https://prakash78blog.files.wordpress.com/2021/04/battery_meter_1.gif)
+![alt text](https://github.com/prax78/BatteryMeter/blob/main/battery_meter_1.gif)
 
